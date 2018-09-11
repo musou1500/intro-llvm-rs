@@ -1,0 +1,8 @@
+[package]
+name = "intro-llvm-rs"
+version = "0.1.0"
+authors = ["musou1500 <musou1500@gmail.com>"]
+
+[dependencies]
+llvm-sys = "60.0.0"
+llvmenv = "0.1.8"
